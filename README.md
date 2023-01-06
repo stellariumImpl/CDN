@@ -1,0 +1,2 @@
+# CDN
+blog resource
