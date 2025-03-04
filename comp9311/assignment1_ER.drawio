@@ -7736,8 +7736,8 @@
         <mxCell id="zDP8gv13JY0lMhXackR8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zDP8gv13JY0lMhXackR8-43" target="zDP8gv13JY0lMhXackR8-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zDP8gv13JY0lMhXackR8-43" value="1.3 AI-Driven Analytics Engine&amp;nbsp;&lt;div&gt;Development&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="420" y="100" width="90" height="60" as="geometry" />
+        <mxCell id="zDP8gv13JY0lMhXackR8-43" value="1.3 AI-Driven Analytics Engine&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zDP8gv13JY0lMhXackR8-44" value="1.3.1 Data Integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="90" height="50" as="geometry" />
@@ -7769,10 +7769,10 @@
         <mxCell id="zDP8gv13JY0lMhXackR8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zDP8gv13JY0lMhXackR8-55" target="zDP8gv13JY0lMhXackR8-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zDP8gv13JY0lMhXackR8-55" value="1.4 Personalized Dashboard Development" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="zDP8gv13JY0lMhXackR8-55" value="1.4 Personalized&amp;nbsp; Career Guidance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="620" y="100" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zDP8gv13JY0lMhXackR8-56" value="1.3.1 Data Integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="zDP8gv13JY0lMhXackR8-56" value="1.4.1 Personalized Dashboard&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="690" y="170" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zDP8gv13JY0lMhXackR8-57" value="1.3.2&amp;nbsp; NLP Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
